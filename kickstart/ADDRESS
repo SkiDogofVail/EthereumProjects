@@ -1,0 +1,30 @@
+//
+// 0x544B7472018b23294bF7fF83C30d373f1Ae7547E
+
+
+// Notes from install next@4.1.4 (install this in the kickstart directory)
+Scotts-MacBook-Pro-5:kickstart scottmathis$ npm install --save next@4.1.4 react react-dom
+npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+npm WARN deprecated codeclimate-test-reporter@0.5.1: codeclimate-test-reporter has been deprecated in favor of our new unified test-reporter. Please visit https://docs.codeclimate.com/docs/configuring-test-coverage for details on setting up the new test-reporter.
+npm WARN deprecated github@12.1.0: 'github' has been renamed to '@octokit/rest' (https://git.io/vNB11)
+npm WARN deprecated npmconf@2.1.3: this package has been reintegrated into npm and is now out of date with respect to npm
+npm WARN deprecated @semantic-release/last-release-npm@2.0.2: Use @semantic-release/npm instead
+npm WARN deprecated @semantic-release/condition-travis@6.2.1: Use semantic-release@12.0.0 instead
+
+> fsevents@1.2.4 install /Users/scottmathis/kickstart/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/scottmathis/kickstart/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" already installed
+Pass --update-binary to reinstall or --build-from-source to recompile
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall /Users/scottmathis/kickstart/node_modules/uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+npm WARN kickstart@1.0.0 No description
+npm WARN kickstart@1.0.0 No repository field.
+
++ react-dom@16.6.0
++ react@16.6.0
++ next@4.1.4
+added 700 packages from 462 contributors and audited 95587 packages in 46.412s
+found 0 vulnerabilities
